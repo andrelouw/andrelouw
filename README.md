@@ -1,5 +1,4 @@
-### Hi there 👋 I'm André
-
+<img src="assets/banner.png" alt="Intro Banner" style="text-align: center; margin-bottom: 30px;" />
 
 - 👨🏻‍💻 Working as an **iOS Engineer**
 - 🧐 Interested in _way_ too many things 🙊
